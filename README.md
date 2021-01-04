@@ -1,11 +1,11 @@
 # MyLeetCodeSolution
 Archive my Leetcode solutions (including my original solution and implementation of documented solutions)
 
-Great
+## Great questions:
 
-01_JumpGame: great dynamic programming question
-03_MinWindow: great example for sliding window method
+* 01_JumpGame: great dynamic programming question
+* 03_MinWindow: great example for sliding window method
 
-Easy
+## Easy questions:
 
-02_PlusOne: easy array manipulation
+* 02_PlusOne: easy array manipulation
