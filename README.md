@@ -6,6 +6,7 @@ Archive my Leetcode solutions (including my original solution and implementation
 * 01_JumpGame: great dynamic programming question
 * 03_MinWindow: great example for sliding window method
 * 05_LongestPalindromeSubstring: dynamic programming / expand from center trick 
+* 07_LCS: dynamic programming 
 
 ## Medium questions:
 * 08_DFS_Recursion: use recursion for DFS
